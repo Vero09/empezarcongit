@@ -1,7 +1,10 @@
 # Titulo 1
 
-## Seccion 1 Introducion
+## Seccion 1 Marco teorico
+ 
+ Esta es la primer linea de texto de la rama 1 y ya no termina aqui. Ahora termina aqui.
 
-Esta es la primera linea original de texto y termina aqui. Ahora termina aqui.
 
-Ademas, añadomos esta linea
+# Seccion 2. Introducion
+
+Ahora introducion ira aqui
